@@ -1,6 +1,11 @@
 // < ========= [Либы] ========= > //
 
-
+/* 
+    * Мой GitHub: https://github.com/maksim-montano/
+    * GitHub этого проекта: https://github.com/maksim-montano/project-inform
+    * Pastebin JS: https://pastebin.com/NXYW1Bmi
+    * Pastebin Python: https://pastebin.com/P4tBAwev
+*/
 
 // < ===== [ Переменные ] ===== > //
 
